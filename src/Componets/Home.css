@@ -1,0 +1,15 @@
+
+.hero{
+    background-image: url(https://images.unsplash.com/photo-1516945253819-2bc7931cbaee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    max-width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+   
+
+  }
+  .head{
+    margin-left:450px;
+    color: white;
+  }
+  @media only screen and (max-width: 600px) {}
